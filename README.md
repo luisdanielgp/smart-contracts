@@ -11,6 +11,10 @@ An instance of Algorand's [Sandbox](https://github.com/algorand/sandbox) running
 You'll need Docker and Docker Compose, please refer to Sandbox repo's [README](https://github.com/algorand/sandbox#readme)
 for installation instructions.
 
+## First steps
+
+Update your local sandbox path in startnet.sh and stopnet.sh files.
+
 ## Usage
 
 + `startnet.sh`  Starts sandbox environment creating private network, indexer and indexer db services.
